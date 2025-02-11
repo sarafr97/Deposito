@@ -6,6 +6,10 @@ import Cuentas.CCuenta;
 public class Main {
 
     public static void main(String[] args) {
+        
+    }
+    
+    public static void operativa_cuenta(){
         CCuenta cuenta1;
         double saldoActual;
 
